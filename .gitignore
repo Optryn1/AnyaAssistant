@@ -1,0 +1,11 @@
+# Node modules for web and mobile
+web/node_modules/
+mobile/node_modules/
+
+# Python virtual environments
+desktop/venv/
+
+# Logs and system files
+*.log
+*.tmp
+.DS_Store

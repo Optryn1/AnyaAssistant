@@ -1,0 +1,4 @@
+# React Native Mobile
+node_modules/
+*.log
+*.tmp

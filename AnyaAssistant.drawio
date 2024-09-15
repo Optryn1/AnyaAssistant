@@ -1,0 +1,205 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
+  <diagram name="Page-1" id="gkFzmjaqYDRCej1VpN2q">
+    <mxGraphModel dx="861" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mi3QBUJI7nnlioBzKTCS-1" target="Mi3QBUJI7nnlioBzKTCS-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-9" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mi3QBUJI7nnlioBzKTCS-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.0724" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-1" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;User wants to asks a technical support question&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp2&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:47}]}&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;User wants to ask a technical support question&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#D4D4D4;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="100" y="80" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mi3QBUJI7nnlioBzKTCS-7" target="Mi3QBUJI7nnlioBzKTCS-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-12" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mi3QBUJI7nnlioBzKTCS-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.0638" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mi3QBUJI7nnlioBzKTCS-7" target="Mi3QBUJI7nnlioBzKTCS-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-19" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mi3QBUJI7nnlioBzKTCS-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.2483" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-7" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;User wants to asks a technical support question&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp2&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:47}]}&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;User wants to ask the question through voice input&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="390" y="80" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mi3QBUJI7nnlioBzKTCS-10" target="Mi3QBUJI7nnlioBzKTCS-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-22" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mi3QBUJI7nnlioBzKTCS-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.356" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mi3QBUJI7nnlioBzKTCS-10" target="Mi3QBUJI7nnlioBzKTCS-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-32" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mi3QBUJI7nnlioBzKTCS-31" vertex="1" connectable="0">
+          <mxGeometry x="-0.125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-10" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;User wants to asks a technical support question&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp2&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:47}]}&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;It&#39;s a new chat&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;labelPadding=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="75" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mi3QBUJI7nnlioBzKTCS-17" target="Mi3QBUJI7nnlioBzKTCS-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-26" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mi3QBUJI7nnlioBzKTCS-24" vertex="1" connectable="0">
+          <mxGeometry x="-0.175" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;User wants to ask the question through text input&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="390" y="600" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mi3QBUJI7nnlioBzKTCS-20" target="Mi3QBUJI7nnlioBzKTCS-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-45" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mi3QBUJI7nnlioBzKTCS-34" vertex="1" connectable="0">
+          <mxGeometry x="-0.175" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-20" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;User wants to asks a technical support question&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp2&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:47}]}&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;It&#39;s an ongoing chat&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;labelPadding=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="335" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mi3QBUJI7nnlioBzKTCS-23" target="Mi3QBUJI7nnlioBzKTCS-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-29" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mi3QBUJI7nnlioBzKTCS-28" vertex="1" connectable="0">
+          <mxGeometry x="0.05" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;It&#39;s a new chat&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="680" y="600" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;It&#39;s an ongoing chat&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="680" y="850" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Mi3QBUJI7nnlioBzKTCS-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1241" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tyTSm6g-eks1iVY2ws1-3" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mi3QBUJI7nnlioBzKTCS-50" vertex="1" connectable="0">
+          <mxGeometry x="-0.1605" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-30" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;User wants to asks a technical support question&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp2&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:47}]}&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The user says &quot;Anya&quot; to wake up the AI&lt;br&gt;STT takes care of converting/transcribing speech&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;&amp;nbsp;to text&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#8A075E;fontColor=#ffffff;strokeColor=#005700;labelPadding=0;" parent="1" vertex="1">
+          <mxGeometry x="930" y="75" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3tyTSm6g-eks1iVY2ws1-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mi3QBUJI7nnlioBzKTCS-33" target="3tyTSm6g-eks1iVY2ws1-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3tyTSm6g-eks1iVY2ws1-11" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3tyTSm6g-eks1iVY2ws1-2" vertex="1" connectable="0">
+          <mxGeometry x="-0.0667" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-33" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;User wants to asks a technical support question&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp2&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:47}]}&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;User asks the question.&quot;&lt;br&gt;STT takes care of converting/transcribing speech to text&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#8A075E;fontColor=#ffffff;strokeColor=#005700;labelPadding=0;" parent="1" vertex="1">
+          <mxGeometry x="960" y="335" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Mi3QBUJI7nnlioBzKTCS-35" target="Mi3QBUJI7nnlioBzKTCS-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-41" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mi3QBUJI7nnlioBzKTCS-40" vertex="1" connectable="0">
+          <mxGeometry x="-0.0611" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mi3QBUJI7nnlioBzKTCS-35" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;User wants to asks a technical support question&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp2&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:47},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:47}]}&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The AI says &quot;Olá. Como posso ajudar?&quot;&lt;br&gt;TTS takes care of converting text to speech&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#8A075E;fontColor=#ffffff;strokeColor=#005700;labelPadding=0;" parent="1" vertex="1">
+          <mxGeometry x="1241" y="75" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3tyTSm6g-eks1iVY2ws1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3tyTSm6g-eks1iVY2ws1-1" target="3tyTSm6g-eks1iVY2ws1-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3tyTSm6g-eks1iVY2ws1-12" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3tyTSm6g-eks1iVY2ws1-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.2056" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tyTSm6g-eks1iVY2ws1-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;The pre-trained conversational Hugging Face pipeline generates a text answer.&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;TTS takes care of converting text to speech&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#8A075E;fontColor=#ffffff;strokeColor=#005700;labelPadding=0;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="335" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3tyTSm6g-eks1iVY2ws1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3tyTSm6g-eks1iVY2ws1-5" target="3tyTSm6g-eks1iVY2ws1-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3tyTSm6g-eks1iVY2ws1-16" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3tyTSm6g-eks1iVY2ws1-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.0708" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tyTSm6g-eks1iVY2ws1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3tyTSm6g-eks1iVY2ws1-5" target="3tyTSm6g-eks1iVY2ws1-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3tyTSm6g-eks1iVY2ws1-15" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3tyTSm6g-eks1iVY2ws1-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.0208" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tyTSm6g-eks1iVY2ws1-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;The AI asks &quot;Ajudou?&quot;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;TTS takes care of converting text to speech&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#8A075E;fontColor=#ffffff;strokeColor=#005700;labelPadding=0;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="335" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3tyTSm6g-eks1iVY2ws1-9" value="Train the AI with the new data." style="rhombus;whiteSpace=wrap;html=1;fillColor=#8A075E;fontColor=#ffffff;strokeColor=#005700;labelPadding=0;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="335" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xVGGhVVHkwfJtvXFtRhm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3tyTSm6g-eks1iVY2ws1-13" target="xVGGhVVHkwfJtvXFtRhm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xVGGhVVHkwfJtvXFtRhm-3" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xVGGhVVHkwfJtvXFtRhm-2">
+          <mxGeometry x="-0.1566" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVGGhVVHkwfJtvXFtRhm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3tyTSm6g-eks1iVY2ws1-13" target="xVGGhVVHkwfJtvXFtRhm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xVGGhVVHkwfJtvXFtRhm-6" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xVGGhVVHkwfJtvXFtRhm-5">
+          <mxGeometry x="0.0184" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tyTSm6g-eks1iVY2ws1-13" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;The AI asks &quot;Ajuda-me a corrigir o erro?&quot;&lt;br&gt;TTS takes care of converting text to speech&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#8A075E;fontColor=#ffffff;strokeColor=#005700;labelPadding=0;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="595" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xVGGhVVHkwfJtvXFtRhm-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xVGGhVVHkwfJtvXFtRhm-1" target="xVGGhVVHkwfJtvXFtRhm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xVGGhVVHkwfJtvXFtRhm-9" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xVGGhVVHkwfJtvXFtRhm-8">
+          <mxGeometry x="-0.1303" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVGGhVVHkwfJtvXFtRhm-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;The AI says &quot;Your question was [QUESTION], right?&quot;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#8A075E;fontColor=#ffffff;strokeColor=#005700;labelPadding=0;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="595" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xVGGhVVHkwfJtvXFtRhm-4" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;The AI reports to the trainer (me and maybe others) to fix the error&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#8A075E;fontColor=#ffffff;strokeColor=#005700;labelPadding=0;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="855" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xVGGhVVHkwfJtvXFtRhm-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xVGGhVVHkwfJtvXFtRhm-7" target="xVGGhVVHkwfJtvXFtRhm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xVGGhVVHkwfJtvXFtRhm-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;The AI researches content (e.g. 10 different websites with content related to the prompt) on the internet&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#8A075E;fontColor=#ffffff;strokeColor=#005700;labelPadding=0;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="595" width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xVGGhVVHkwfJtvXFtRhm-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;The user is shown and reads the content of any/all the websites he wants provided by the AI in the UI&lt;br&gt;The user finds information enough to know what&#39;s right&lt;br&gt;&quot;Read the web content and provide me with the proportions of the text that successfuly answer you question OR Confirm/Validate that the information I scrapped from websites&amp;nbsp; and am showing you is the correct answer foryour question/prompt&quot;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#8A075E;fontColor=#ffffff;strokeColor=#005700;labelPadding=0;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="595" width="230" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
